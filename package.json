@@ -1,0 +1,19 @@
+{
+  "name": "ga.sei.p3",
+  "version": "1.0.0",
+  "description": "project 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David White-Goode",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forextroll/GA.SEI.P3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/forextroll/GA.SEI.P3/issues"
+  },
+  "homepage": "https://github.com/forextroll/GA.SEI.P3#readme"
+}
