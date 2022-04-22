@@ -1,10 +1,10 @@
 ## UI-Tabs using API's
 
-A simple website that displays the name, description, and image of popular heroes from the Marvel Cinematic Universe. 
+A simple website that displays the name, description, and image of popular heroes from the Marvel Cinematic Universe using RESTful api's. 
 
 ____
-
-
+#### Preview
+<img src='./images/preview.png'>
 
 ### Built With
 
