@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/forextroll/GA.SEI.P3/issues"
   },
-  "homepage": "https://github.com/forextroll/GA.SEI.P3#readme"
+  "homepage": "https://github.com/forextroll/GA.SEI.P3#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
